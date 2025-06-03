@@ -1,1 +1,1 @@
-# React + Vite = Wheather App
+# React + Vite = Weather App
